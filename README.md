@@ -27,4 +27,5 @@ Bronze → Silver → Gold
 - retail_cleaned.csv
 - retail_curated.csv
 
-## Autho
+## Author
+Keerthi J K
